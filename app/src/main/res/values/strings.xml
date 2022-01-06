@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android_app_2</string>
+    <string name="btn_label">Open Camera</string>
+</resources>
